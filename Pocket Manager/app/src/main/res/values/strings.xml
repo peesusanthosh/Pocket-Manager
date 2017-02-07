@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">InClass10</string>
+    <string name="btnaddexpense">Add Expense</string>
+    <string name="btneditexpense">Edit Expense</string>
+    <string name="btndeleteexpense">Delete Expense</string>
+    <string name="btnshowexpenses">Show Expenses</string>
+    <string name="btnfinish">Close</string>
+    <string name="txt1">Add An Expense</string>
+    <string name="txt2">Expense Name:</string>
+    <string name="txt3">Category:</string>
+    <string name="txt4">Amount:</string>
+    <string name="txt5">Date:</string>
+    <string name="txt6">Receipt:</string>
+    <string name="btnselectexpense">Select Expense</string>
+    <string name="btnsave">Save</string>
+    <string name="btncancel">Cancel</string>
+    <string name="btndelete">Delete</string>
+    <string name="txt7">Expense Details</string>
+    <string name="txt8">Name:</string>
+    <string-array name="categories_array">
+        <item>Select a category</item>
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Other</item>
+    </string-array>
+</resources>
