@@ -3,7 +3,7 @@ package com.example.inclass10;
 import java.io.Serializable;
 
 /**
- * Created by Rama Vamshi Krishna on 9/8/2016.
+ * Created by Santhosh Reddy Peesu on 9/8/2016.
  */
 public class Expense implements Serializable {
 

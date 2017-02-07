@@ -3,7 +3,7 @@ package com.example.inclass10;
 import java.io.Serializable;
 
 /**
- * Created by Rama Vamshi Krishna on 10/31/2016.
+ * Created by Santhosh Reddy Peesu on 10/31/2016.
  */
 public class User implements Serializable {
     String fullname,userpassword;

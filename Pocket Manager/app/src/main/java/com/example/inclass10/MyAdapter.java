@@ -15,7 +15,7 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by Rama Vamshi Krishna on 10/4/2016.
+ * Created by Santhosh Reddy Peesu on 10/4/2016.
  */
 public class MyAdapter extends ArrayAdapter<Expense> {
     Context mycontext;
